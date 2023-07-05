@@ -1,2 +1,2 @@
 # alpha-shopify-sync
-Python script to sync Shopify warehouse inventories with Alphabroder inventories
+Python script to sync Shopify inventories with Alphabroder warehouse inventories
